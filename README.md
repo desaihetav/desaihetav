@@ -1,10 +1,14 @@
 ## Hello,
 
-I am Hetav Desai, a Frontend Developer. I focus on writing accessible HTML, using modern CSS practices and JavaScript. I am currently practising JavaScript, React and other major technologies in the React Ecosystem, by building projects with every new technology that I learn. I've also had experience working with Android, Flutter and Firebase.
+I am Hetav Desai. I'm currently a Software Engineer at Unacademy where my team and I work on building, optimising and scaling the live classroom streaming experience on the Unacademy platform, to enable seamless realtime experience for the learners and educators.
 
-When I'm not coding, you'll find me playing Piano, reading books or studying personal finance and psychology.
+With a little more interest and strength on the frontend side of the things, I work with JavaScript/TypeScript, React, Redux, React Native and WebRTC; and I'm currently learning mobile development. I also have some experience with backend technologies like NodeJS, Express, MongoDB, GraphQL, and SQL.
 
-### Recent Projects
+Outside of the programming world, my hobbies include listening to music, playing piano keyboard, reading about personal finance, startups, and psychology and consuming podcasts, videos and other forms of content that help me broaden my perspective on various topics. I'm always looking for such resources, and good suggestions are always welcome!
+
+Find my work on my [personal website](https://desaihetav.com)
+
+<!-- ### Recent Projects
 - [NotesHD](https://noteshd.netlify.app) – A simple notes web app made using HTML, CSS and vanillaJS
 - [HBR – Hetavs Book Recommendations](https://hd-reading-list.netlify.app/) – Web app built using ReactJS to recommend books across different genres
 - [Food & Drink Emoji Interpretor](https://hd-emoji-interpretor.netlify.app/) – Web app built using ReactJS to show you the meanings of food and drink emoticons
@@ -15,7 +19,7 @@ Find more projects on my [portfolio website](https://desaihetav-portfolio-v1.net
 - Why are React Hooks required? | [Read Blog](https://desaihetav-blog.netlify.app/why-are-react-hooks-required)
 - FAANG term does not belong to tech | [Read Blog](https://desaihetav-blog.netlify.app/faang-term-does-not-belong-to-tech)
 
-Find more blogs on my [blog site](https://desaihetav-blog.netlify.app/)
+Find more blogs on my [blog site](https://desaihetav-blog.netlify.app/) -->
 
 ### Connect with me via
 
