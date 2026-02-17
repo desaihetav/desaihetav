@@ -9,7 +9,7 @@
   Outside of work, my hobbies include listening to music, playing piano keyboard, reading about personal finance, startups, and psychology and consuming podcasts,
   videos and other forms of content that help me broaden my perspective on various topics. Good suggestions are always welcome!
 
-  Find my work on my https://desaihetav.com
+  Find my work on my [website](https://desaihetav.com)
 
   ## Connect with me via
   - Twitter | https://twitter.com/desaihetav
